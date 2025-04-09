@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/marcelomanara](https://linkedin.com/in/marcelomanara)
+- 💼 LinkedIn: [https://linkedin.com/in/marcelo-manara](https://linkedin.com/in/marcelo-manara)
 - 🗃️ Check out my highlighted repositories right here on GitHub!
 
 ---
