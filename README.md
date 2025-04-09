@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🧠 Developer in constant evolution
-- 🐞 Creating bugs since 2022 (and fixing a few too 😅)
+- 🐞 Creating bugs since 2023 (and fixing a few too 😅)
 - 📚 Currently diving into **C#**, **.NET**, and **Web Development**
 - 🧰 Exploring the world of DevSecOps and automation
 - 🎯 Goal: Learn, build, and turn ideas into real solutions!
