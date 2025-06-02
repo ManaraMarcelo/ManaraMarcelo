@@ -8,7 +8,7 @@
 
 - 🧠 Developer in constant evolution
 - 🐞 Creating bugs since 2023 (and fixing a few too 😅)
-- 📚 Currently diving into **C#**, **.NET**, and **Web Development**
+- 📚 Currently diving into **Kubernets** and **Pipeline**
 - 🧰 Exploring the world of DevSecOps and automation
 - 🎯 Goal: Learn, build, and turn ideas into real solutions!
 
