@@ -43,6 +43,7 @@
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: [https://linkedin.com/in/marcelo-manara](https://linkedin.com/in/marcelo-manara)
+- 📁 Portifolio: [https://portifolio-peach-beta.vercel.app/](https://portifolio-peach-beta.vercel.app/)
 - 🗃️ Check out my highlighted repositories right here on GitHub!
 
 ---
