@@ -1,33 +1,32 @@
 <h1 align="center">Hey there, devs! 👋</h1>
 
-<p align="center">I'm <strong>Marcelo Manara</strong>, a developer from Brazil 🇧🇷<br>Welcome to my corner on GitHub!</p>
+<p align="center">I'm <strong>Marcelo Manara</strong>, a Junior Data Scientist & Developer from Brazil 🇧🇷<br>Welcome to my corner on GitHub!</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Developer in constant evolution
+- 🧠 Developer & Data Scientist in constant evolution
 - 🐞 Creating bugs since 2023 (and fixing a few too 😅)
-- 📚 Currently diving into **Terraform**
-- 🧰 Exploring the world of DevSecOps and automation
-- 🎯 Goal: Learn, build, and turn ideas into real solutions!
+- 📚 Currently diving into **AI integrations (RAG) and SaaS architectures**
+- 🧰 Exploring the world of Cloud (AWS), Node.js, and Data Engineering
+- 🎯 Goal: Learn, build, and turn ideas into scalable, data-driven solutions!
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS"/>
 </div>
 
 ---
@@ -43,11 +42,10 @@
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: [https://linkedin.com/in/marcelo-manara](https://linkedin.com/in/marcelo-manara)
-- 📁 Portifolio: [https://portifolio-peach-beta.vercel.app/](https://portifolio-peach-beta.vercel.app/)
+- 📁 Portfolio: [https://portifolio-peach-beta.vercel.app/](https://portifolio-peach-beta.vercel.app/)
 - 🗃️ Check out my highlighted repositories right here on GitHub!
 
 ---
 
 ### 🚧 Always building! New things coming soon...  
 ⭐️ Feel free to explore, check out the projects, and drop a star if you like them!
-
