@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/marcelo-manara" target="_blank">
+    <img src="https://github.com/ManaraMarcelo/ManaraMarcelo/blob/main/Background_LinkedIn_Photoshop02.png">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
