@@ -175,20 +175,3 @@ marcelo = {
 
 ---
 
-<div align="center">
-
-## 📈 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ManaraMarcelo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaraMarcelo&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<sub>
-  <strong>AWS Certified Cloud Practitioner</strong> &nbsp;·&nbsp;
-  Open to remote opportunities globally &nbsp;·&nbsp;
-  <a href="https://portifolio-peach-beta.vercel.app">portifolio-peach-beta.vercel.app</a>
-</sub>
-
-</div>
