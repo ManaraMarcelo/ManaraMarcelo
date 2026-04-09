@@ -1,36 +1,194 @@
-<h1 align="center">Hi there, I'm Marcelo Manara! 👋</h1>
-<h3 align="center">Developer & Junior Data Scientist</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://github.com/ManaraMarcelo/ManaraMarcelo/blob/main/Background_LinkedIn_Photoshop02.png" alt="Marcelo Manara" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  <h1>Marcelo Manara</h1>
+  <p><strong>Software Engineer&nbsp;|&nbsp;AI Systems · Cloud · Python · AWS</strong></p>
+  <p>
+    Building complete AI-powered systems —<br/>
+    from cloud infrastructure to intelligent applications.<br/>
+    <sub>São Paulo, Brazil · Available for remote opportunities</sub>
+  </p>
+  <br/>
   <a href="https://linkedin.com/in/marcelo-manara" target="_blank">
-    <img src="https://github.com/ManaraMarcelo/ManaraMarcelo/blob/main/Background_LinkedIn_Photoshop02.png">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  &nbsp;
+  <a href="https://portifolio-peach-beta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-Certified_CCP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
 
 ---
 
-## 💫 About Me
-- 🧠 **Developer & Data Scientist** in constant evolution
-- 🐞 Creating bugs since 2023 (and fixing a few too 😅)
-- 📚 Currently diving into **AI integrations (RAG) and SaaS architectures**
-- 🧰 Exploring the world of **Cloud (AWS), Bun, and Data Engineering**
-- 🎯 **Goal:** Learn, build, and turn ideas into scalable, data-driven solutions!
+<div align="center">
+
+## 🧠 About Me
+
+</div>
+
+```python
+marcelo = {
+    "role":       "Software Engineer | AI Systems · Cloud · Python · AWS",
+    "current":    "AI Engineer @ Freire, Gerbasi & Bittencourt Advogados",
+    "building":   ["RAG pipelines", "LLM document intelligence", "AWS infrastructure"],
+    "stack":      ["Python", "FastAPI", "LangChain", "Node.js", "PostgreSQL", "Docker", "Kubernetes"],
+    "cloud":      "AWS Certified Cloud Practitioner",
+    "focus":      "End-to-end AI systems — infra, data pipelines, and intelligent applications",
+    "open_to":    "Remote opportunities globally 🌍",
+}
+```
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+## ⚡ What I Build
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+</div>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 AI Systems</h3>
+      <p>RAG pipelines · LangChain<br/>Document intelligence<br/>LLM integrations · pgvector</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud & DevSecOps</h3>
+      <p>AWS · Docker · Kubernetes<br/>CI/CD · Jenkins · IaC<br/>Linux · FinOps</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Data Engineering</h3>
+      <p>ETL pipelines · PostgreSQL<br/>Batch processing · Analytics<br/>Pandas · SQLAlchemy</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+**Cloud & DevSecOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Web & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 SINAPSE — B2B LegalTech</h3>
+      <p>SaaS platform for law firms with a document intelligence engine. Semantic cross-RAG search with real-time responses and zero hallucination.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/RAG-LangChain-1C3C3C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ManaraMarcelo/sinapse-legaltech-rag-platform">→ View project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ AI Extraction Pipeline</h3>
+      <p>Production AI pipeline turning unstructured documents into reliable, traceable operational data — with multi-provider LLM fallback and semantic normalization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ManaraMarcelo/ai-document-extraction-pipeline">→ View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Scalable AWS Infrastructure & CI/CD</h3>
+      <p>High-availability architecture on AWS with Auto Scaling, ALB, RDS and EFS. Full CI/CD pipeline automated via Jenkins, Docker and Kubernetes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ManaraMarcelo/aws-scalable-wordpress-ha">→ View project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 AI Critical Analysis Pipeline</h3>
+      <p>Database-first pipeline for automatic classification of high-volume unstructured text — with executive PDF report generation and full operational traceability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+      </p>
+      <a href="https://github.com/ManaraMarcelo/ai-critical-publication-analysis">→ View project</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ManaraMarcelo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaraMarcelo&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<sub>
+  <strong>AWS Certified Cloud Practitioner</strong> &nbsp;·&nbsp;
+  Open to remote opportunities globally &nbsp;·&nbsp;
+  <a href="https://portifolio-peach-beta.vercel.app">portifolio-peach-beta.vercel.app</a>
+</sub>
+
+</div>
